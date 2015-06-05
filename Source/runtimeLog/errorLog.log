@@ -1,0 +1,103 @@
+WARN 2014/09/18 13:32:08.42 This is an warn message.
+WARN 2014/09/18 13:33:00.238 This is an warn message.
+TRACE 2014/09/18 14:00:20.920 Trace
+TRACE 2014/09/18 14:02:36.322 Trace
+DEBUG 2014/09/18 14:02:36.322 Debug
+INFO 2014/09/18 14:02:36.323 Info
+WARN 2014/09/18 14:02:36.323 Warn
+ERROR 2014/09/18 14:02:36.323 Error
+TRACE 2014/09/18 14:03:13.407 Trace
+DEBUG 2014/09/18 14:03:13.407 Debug
+INFO 2014/09/18 14:03:13.408 Info
+WARN 2014/09/18 14:03:13.408 Warn
+ERROR 2014/09/18 14:03:13.408 Error
+TRACE 2014/11/07 14:49:36.691 Trace
+DEBUG 2014/11/07 14:49:36.692 Debug
+INFO 2014/11/07 14:49:36.692 Info
+WARN 2014/11/07 14:49:36.693 Warn
+ERROR 2014/11/07 14:49:36.693 Error
+TRACE 2014/11/07 14:58:54.837 Trace
+DEBUG 2014/11/07 14:58:54.838 Debug
+INFO 2014/11/07 14:58:54.838 Info
+WARN 2014/11/07 14:58:54.838 Warn
+ERROR 2014/11/07 14:58:54.839 Error
+TRACE 2014/11/07 14:59:05.213 Trace
+DEBUG 2014/11/07 14:59:05.214 Debug
+INFO 2014/11/07 14:59:05.214 Info
+WARN 2014/11/07 14:59:05.215 Warn
+ERROR 2014/11/07 14:59:05.215 Error
+TRACE 2014/11/07 15:00:23.303 Trace
+DEBUG 2014/11/07 15:00:23.304 Debug
+INFO 2014/11/07 15:00:23.304 Info
+WARN 2014/11/07 15:00:23.304 Warn
+ERROR 2014/11/07 15:00:23.304 Error
+TRACE 2014/11/07 15:00:38.242 Trace
+DEBUG 2014/11/07 15:00:38.243 Debug
+INFO 2014/11/07 15:00:38.243 Info
+WARN 2014/11/07 15:00:38.244 Warn
+ERROR 2014/11/07 15:00:38.244 Error
+TRACE 2014/11/07 15:08:57.987 Trace
+DEBUG 2014/11/07 15:08:57.988 Debug
+INFO 2014/11/07 15:08:57.988 Info
+WARN 2014/11/07 15:08:57.988 Warn
+ERROR 2014/11/07 15:08:57.988 Error
+TRACE 2014/11/07 15:09:29.581 Trace
+DEBUG 2014/11/07 15:09:29.582 Debug
+INFO 2014/11/07 15:09:29.582 Info
+WARN 2014/11/07 15:09:29.582 Warn
+ERROR 2014/11/07 15:09:29.583 Error
+TRACE 2014/11/07 15:10:07.488 Trace
+DEBUG 2014/11/07 15:10:07.489 Debug
+INFO 2014/11/07 15:10:07.490 Info
+WARN 2014/11/07 15:10:07.491 Warn
+ERROR 2014/11/07 15:10:07.491 Error
+TRACE 2014/11/07 15:11:10.168 Trace
+DEBUG 2014/11/07 15:11:10.168 Debug
+INFO 2014/11/07 15:11:10.169 Info
+WARN 2014/11/07 15:11:10.169 Warn
+ERROR 2014/11/07 15:11:10.169 Error
+TRACE [utility.log.testcase.TestCustomLog]2014/11/07 15:12:20.715 Trace
+DEBUG [utility.log.testcase.TestCustomLog]2014/11/07 15:12:20.716 Debug
+INFO [utility.log.testcase.TestCustomLog]2014/11/07 15:12:20.716 Info
+WARN [utility.log.testcase.TestCustomLog]2014/11/07 15:12:20.717 Warn
+ERROR [utility.log.testcase.TestCustomLog]2014/11/07 15:12:20.717 Error
+TRACE [utility.log.testcase.TestCustomLog] 2014/11/07 15:12:42.279 Trace
+DEBUG [utility.log.testcase.TestCustomLog] 2014/11/07 15:12:42.280 Debug
+INFO [utility.log.testcase.TestCustomLog] 2014/11/07 15:12:42.280 Info
+WARN [utility.log.testcase.TestCustomLog] 2014/11/07 15:12:42.280 Warn
+ERROR [utility.log.testcase.TestCustomLog] 2014/11/07 15:12:42.280 Error
+TRACE 2014/11/07 15:14:01.225 [utility.log.testcase.TestCustomLog] Trace
+DEBUG 2014/11/07 15:14:01.226 [utility.log.testcase.TestCustomLog] Debug
+INFO 2014/11/07 15:14:01.226 [utility.log.testcase.TestCustomLog] Info
+WARN 2014/11/07 15:14:01.226 [utility.log.testcase.TestCustomLog] Warn
+ERROR 2014/11/07 15:14:01.226 [utility.log.testcase.TestCustomLog] Error
+TRACE 2014/11/07 15:19:54.991 [utility.log.testcase.TestCustomLog] Trace
+DEBUG 2014/11/07 15:19:54.992 [utility.log.testcase.TestCustomLog] Debug
+INFO  2014/11/07 15:19:54.992 [utility.log.testcase.TestCustomLog] Info
+WARN  2014/11/07 15:19:54.993 [utility.log.testcase.TestCustomLog] Warn
+ERROR 2014/11/07 15:19:54.993 [utility.log.testcase.TestCustomLog] Error
+TRACE 2014/11/22 18:28:35.309 [utility.log.testcase.TestCustomLog] Trace
+DEBUG 2014/11/22 18:28:35.310 [utility.log.testcase.TestCustomLog] Debug
+INFO  2014/11/22 18:28:35.310 [utility.log.testcase.TestCustomLog] Info
+WARN  2014/11/22 18:28:35.310 [utility.log.testcase.TestCustomLog] Warn
+ERROR 2014/11/22 18:28:35.310 [utility.log.testcase.TestCustomLog] Error
+TRACE 2014/11/28 17:04:54.937 [utility.log.testcase.TestCustomLog] Trace
+DEBUG 2014/11/28 17:04:54.938 [utility.log.testcase.TestCustomLog] Debug
+INFO  2014/11/28 17:04:54.938 [utility.log.testcase.TestCustomLog] Info
+WARN  2014/11/28 17:04:54.938 [utility.log.testcase.TestCustomLog] Warn
+ERROR 2014/11/28 17:04:54.938 [utility.log.testcase.TestCustomLog] Error
+TRACE 2014/11/28 17:14:02.120 [utility.log.testcase.TestCustomLog] Trace
+DEBUG 2014/11/28 17:14:02.121 [utility.log.testcase.TestCustomLog] Debug
+INFO  2014/11/28 17:14:02.121 [utility.log.testcase.TestCustomLog] Info
+WARN  2014/11/28 17:14:02.122 [utility.log.testcase.TestCustomLog] Warn
+ERROR 2014/11/28 17:14:02.122 [utility.log.testcase.TestCustomLog] Error
+TRACE 2014/11/28 17:16:44.313 [utility.log.testcase.TestCustomLog] Trace
+DEBUG 2014/11/28 17:16:44.314 [utility.log.testcase.TestCustomLog] Debug
+INFO  2014/11/28 17:16:44.314 [utility.log.testcase.TestCustomLog] Info
+WARN  2014/11/28 17:16:44.314 [utility.log.testcase.TestCustomLog] Warn
+ERROR 2014/11/28 17:16:44.314 [utility.log.testcase.TestCustomLog] Error
+TRACE 2014/11/29 13:14:08.541 [utility.log.testcase.TestCustomLog] Trace
+DEBUG 2014/11/29 13:14:08.542 [utility.log.testcase.TestCustomLog] Debug
+INFO  2014/11/29 13:14:08.542 [utility.log.testcase.TestCustomLog] Info
+WARN  2014/11/29 13:14:08.542 [utility.log.testcase.TestCustomLog] Warn
+ERROR 2014/11/29 13:14:08.543 [utility.log.testcase.TestCustomLog] Error

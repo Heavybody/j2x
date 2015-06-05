@@ -1,0 +1,7 @@
+java -jar Console.jar
+
+java -jar Console.jar \s "<student><name>Liu Ho Yin</name></student>"
+java -jar Console.jar \s "{\"id\": \"19\"}"
+
+java -jar Console.jar \f "./XmlFile/StudentWithName.txt" json_output.txt
+java -jar Console.jar \f "./JSONFile/SimpleJSON.txt" xml_output.txt
